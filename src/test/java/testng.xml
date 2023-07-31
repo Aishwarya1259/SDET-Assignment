@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="testMakeMyTrip">
+    <classes>
+      <class name="TC_001"/>
+      <class name="TC_002"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
